@@ -44,3 +44,15 @@ body {
   .dropdown:hover .dropbtn {
     background-color: #3e8e41;
   }
+
+  
+  .picture-container {
+     border-style: solid;
+     border-radius: 8px;
+     border-color: rgb(3, 3, 32);
+     width: 500px;
+     height: 500px;
+     margin-top: 150px;
+     margin-left: 200px;
+      
+  }
